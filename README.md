@@ -22,6 +22,8 @@ Dapat disesuaikan dengan kebutuhan
 Fitur lengkap
 Harga terjangkau
 Jika Anda sedang mencari aplikasi untuk pengelolaan rental game, SimpleRentalGame-Laravel adalah pilihan yang tepat.
+
+
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
